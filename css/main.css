@@ -12,6 +12,16 @@ h1, h2 {
   color: #665E5E;
 }
 
+.planets {
+  color: white;
+}
+
+nav {
+  background-color: #665E5E;
+  text-align: center; 
+}
+
+
 h2 {
   font-size: 3.5rem;
 }
