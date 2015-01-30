@@ -12,13 +12,37 @@ h1, h2 {
   color: #665E5E;
 }
 
+h1 {
+  padding: .5em 2em .5em 3em;
+  margin: 0;
+}
+
 .planets {
   color: white;
 }
 
+nav li {
+  display: inline-block;
+}
+nav ol {
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  background-color: #703838;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+
+
 nav {
   background-color: #665E5E;
-  text-align: center; 
+  text-align: center;
 }
 
 
